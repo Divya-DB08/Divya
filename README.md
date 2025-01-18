@@ -25,5 +25,5 @@ I'm continuously improving my skills by exploring advanced DAX.
 I'm always excited to collaborate on data-related projects or discuss innovative ideas!
 
 LinkedIn: www.linkedin.com/in/divya-s-buvanesh
-Portfolio: Your Portfolio or Website
+Portfolio:https://github.com/Divya-DB08
 Email: divya27buvanesh@gmail.com
